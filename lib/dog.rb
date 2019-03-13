@@ -7,7 +7,7 @@ end
 
 def dogs_name(name)
   @name = name
-  @name == "Mutt"
+  @breed = "Mutt"
 end
 
 end
