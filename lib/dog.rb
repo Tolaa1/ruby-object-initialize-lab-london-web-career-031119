@@ -5,7 +5,7 @@ def initialize(name)
 
 end
 
-def dogs_name(name)
+def name=(name)
   @name = name
   @breed = ""
 end
