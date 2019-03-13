@@ -11,5 +11,7 @@ def name=(name, breed)
   @breed = breed
 
 end
+def breed(Mutt)
+end
 
 end
