@@ -4,6 +4,6 @@ def initialize(person_name)
 end
 end
 
-def person(name)
+def person_name=(name)
   @name = name
 end
