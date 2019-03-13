@@ -8,3 +8,5 @@ end
 def dogs_name(name)
   @name = name
 end
+
+end
