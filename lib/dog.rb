@@ -7,7 +7,7 @@ def initialize(name, breed)
 
 end
 
-def name=(name, breed)
+def name=(name)
   @name = name
 
 end
