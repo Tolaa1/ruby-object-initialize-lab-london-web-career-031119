@@ -12,7 +12,7 @@ def name=(name, breed)
 
 end
 def breed(Mutt)
-  @breed = "Mutt"
+  @breed = ""
 end
 
 end
