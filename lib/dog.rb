@@ -1,5 +1,5 @@
 class Dog
-def initialize(dogs_names)
+def initialize(dogs_name)
   attr_accessor :name, :breed
 end
 
